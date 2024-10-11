@@ -1,5 +1,4 @@
-## Hi there 👋
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghh7964)](https://solved.ac/ghh7964/)
 <!--
 **ghh7964/ghh7964** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
