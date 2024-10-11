@@ -1,5 +1,4 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghh7964)](https://solved.ac/ghh7964/)
-
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=ghh7964)
 
 <!--
